@@ -1,0 +1,49 @@
+body {
+text-align: center ;
+background: linear-gradient(#7E57C2 0%,#E040FB 100%)
+}
+#Brush {
+width: 450px ;
+border-radius: 15px ;
+}
+#Paragraph {
+font-size: 20px ;
+color: aqua ;
+}
+.Menu {
+text-align: right ; 
+}
+#HJP {
+width: 450px ;
+}
+#p2 {
+font-size: 30px ;  
+}
+#p3 {
+font-size: 20px ;
+}
+.links{
+text-align: left ;
+ font-size: 30px;
+}
+#text {
+font-size: 35px ; 
+}
+#paragraph  {
+font-size: 29px ;
+}
+#header {
+font-size: 30px ;
+}
+#Luna {
+font-size: 20px ;
+}
+#JK {
+width: 10px;
+}
+#Leo {
+width: 10px ;
+}
+#LL {
+width: 450px ;
+}
